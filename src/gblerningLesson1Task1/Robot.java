@@ -1,4 +1,4 @@
-package gblerningLesson1;
+package gblerningLesson1Task1;
 
 public class Robot implements Action{
 

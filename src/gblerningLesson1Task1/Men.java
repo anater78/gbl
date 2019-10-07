@@ -1,6 +1,4 @@
-package gblerningLesson1;
-
-import java.sql.SQLOutput;
+package gblerningLesson1Task1;
 
 public class Men implements Action {
 
