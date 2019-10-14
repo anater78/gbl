@@ -41,5 +41,16 @@ public class Main {
 
         }
 
+        //TASK2
+
+        PhoneBook pb = new PhoneBook();
+
+        pb.addAbonent("Pupkin", 1234567);
+        pb.addAbonent("Figov", 3987654);
+        pb.addAbonent("Pupkin", 888567);
+
+
+        pb.showAll();
+
     }
 }
