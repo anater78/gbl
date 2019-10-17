@@ -69,7 +69,6 @@ public class Main extends Application {
         primaryStage.setScene(new Scene(root, 350, 450));
         primaryStage.show();
 
-        
 
     }
 }
